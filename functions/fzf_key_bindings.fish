@@ -1,0 +1,1 @@
+/home/barathraj-affinsys/.fzf/shell/key-bindings.fish
