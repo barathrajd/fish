@@ -22,3 +22,5 @@ alias personal-git-config='git config user.name "barathrajd" && git config user.
 alias cl=clear
 alias cat=batcat
 alias g=git
+
+ starship init fish | source

@@ -1,0 +1,1 @@
+/home/barathraj-affinsys/.local/share/omf/themes/boxfish/fish_prompt.fish
