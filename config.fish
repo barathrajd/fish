@@ -1,6 +1,7 @@
 # cargo path
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="/usr/bin/exa:$PATH"
+export PATH="$HOME/.nvm/versions/node/v16.15.1/bin:$PATH"
 
 function nvm
     bass source ~/.nvm/nvm.sh --no-use ';' nvm $argv
