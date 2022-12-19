@@ -6,7 +6,8 @@ export PATH="$PATH:$HOME/.cargo/bin"
 export PATH="$PATH:/bin:/usr/bin"
 export PATH="$PATH:/.nvm/versions/node/v18.12.1/bin"
 zoxide init fish | source
-alias l="exa -l --icons -F --git-ignore"
+alias ls="exa --icons"
+alias ll="exa -l --icons -F --git-ignore"
 alias vi="nvim" 
 
 function nvm
